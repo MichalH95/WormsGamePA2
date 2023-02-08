@@ -1,4 +1,4 @@
-School assignment for the course PA2 (Programming and algorithmization 2).
+School assignment for the course PA2 (Programming and algorithmization 2) at the Czech Technical University in Prague.
 
 Assignment description:
 
