@@ -1,6 +1,6 @@
 ## School assignment for the course PA2 (Programming and algorithmization 2) at the Czech Technical University in Prague
 
-Assignment description:
+### Assignment description:
 
 Worms (snake) game.
 
@@ -20,4 +20,6 @@ The game must have following functionalities:
 	2. loading game levels (maps) from a file (create a suitable format),
 	3. notifying end of the game and its results.
 
+### To start the application:
 
+In console go to the project's directory and run `make` and then `make run`.
